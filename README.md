@@ -3,7 +3,7 @@
 
 <h4 align="center">  ᐉ MENTION-1</h1>
 
-   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.instagram.com/whoois.zenitsu</a>
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://zenitsu.vercel.app/">ɢᴏᴅ ᴢᴇɴɪᴛꜱᴜ</a>
 
 ```js
 https://gist.github.com/godzenitsu/25e559e9dc6bf8509bd3a44703393ad4
