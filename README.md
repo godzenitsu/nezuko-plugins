@@ -15,7 +15,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : qᴜᴇᴇɴ ɴᴇᴢᴜᴋᴏ
 
 <h4 align="center">  ᐉ MENTION-2</h1>
 
-   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/godzenitsu"> ɢᴏᴅ ᴢᴇɴɪᴛꜱᴜ</a>
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://zenitsu.vercel.app/"> ɢᴏᴅ ᴢᴇɴɪᴛꜱᴜ</a>
 
 ```js
 https://gist.github.com/godzenitsu/7d54c837336a94453cf407992595fc79
@@ -27,7 +27,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : qᴜᴇᴇɴ ɴᴇᴢᴜᴋᴏ
 
 <h4 align="center">  ᐉ OWNER</h1>
 
-   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/godzenitsu">  ɢᴏᴅ ᴢᴇɴɪᴛꜱᴜ</a>
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://zenitsu.vercel.app/">  ɢᴏᴅ ᴢᴇɴɪᴛꜱᴜ</a>
 
 ```js
 https://gist.github.com/godzenitsu/15638f17ec130b7f3ee624da2fd3f37d
