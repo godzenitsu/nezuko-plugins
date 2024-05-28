@@ -1,12 +1,12 @@
 # External-Plugins-QUEEN-NEZUKO
 
 
-<h4 align="center">  ᐉ MENTION-1</h1>
+<h4 align="center">  ᐉ ALIVE </h1>
 
    ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://zenitsu.vercel.app/">ɢᴏᴅ ᴢᴇɴɪᴛꜱᴜ</a>
 
 ```js
-https://gist.github.com/godzenitsu/25e559e9dc6bf8509bd3a44703393ad4
+https://gist.github.com/godzenitsu/663773ae9697e9380dc9b8111e219eb0
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝙼𝙴𝙽𝚃𝙸𝙾𝙽 𝙰𝚄𝙳𝙸𝙾 𝚂𝙴𝙽𝙳𝙴𝚁<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : qᴜᴇᴇɴ ɴᴇᴢᴜᴋᴏ(if not work mention 1 use mention 2)
