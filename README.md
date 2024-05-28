@@ -8,7 +8,7 @@
 ```js
 https://gist.github.com/godzenitsu/663773ae9697e9380dc9b8111e219eb0
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝙼𝙴𝙽𝚃𝙸𝙾𝙽 𝙰𝚄𝙳𝙸𝙾 𝚂𝙴𝙽𝙳𝙴𝚁<br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :  ᴄᴜꜱᴛᴏᴍɪꜱᴀʙʟᴇ ᴀʟɪᴠᴇ<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : qᴜᴇᴇɴ ɴᴇᴢᴜᴋᴏ(if not work mention 1 use mention 2)
 <br />
 <br />
